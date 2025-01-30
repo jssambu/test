@@ -1,2 +1,2 @@
 # test
-test repo to learn git
+test repo to learn git commands
